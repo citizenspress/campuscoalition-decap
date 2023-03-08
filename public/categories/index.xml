@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ontario Universities &amp; Colleges Coalition</title>
+    <link>https://campuscoalition.org/categories/</link>
+    <description>Recent content in Categories on Ontario Universities &amp; Colleges Coalition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 05:00:00 +0000</lastBuildDate><atom:link href="https://campuscoalition.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>https://campuscoalition.org/categories/news/</link>
+      <pubDate>Mon, 20 Feb 2023 05:00:00 +0000</pubDate>
+      
+      <guid>https://campuscoalition.org/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toronto</title>
+      <link>https://campuscoalition.org/categories/toronto/</link>
+      <pubDate>Mon, 20 Feb 2023 05:00:00 +0000</pubDate>
+      
+      <guid>https://campuscoalition.org/categories/toronto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Actions</title>
+      <link>https://campuscoalition.org/categories/local-actions/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://campuscoalition.org/categories/local-actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Materials</title>
+      <link>https://campuscoalition.org/categories/materials/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://campuscoalition.org/categories/materials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talking points</title>
+      <link>https://campuscoalition.org/categories/talking-points/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://campuscoalition.org/categories/talking-points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factsheets</title>
+      <link>https://campuscoalition.org/categories/factsheets/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://campuscoalition.org/categories/factsheets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Meetings</title>
+      <link>https://campuscoalition.org/categories/local-meetings/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://campuscoalition.org/categories/local-meetings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

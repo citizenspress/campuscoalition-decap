@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ontario Universities &amp; Colleges Coalition</title>
+    <link>https://campuscoalition.org/tags/</link>
+    <description>Recent content in Tags on Ontario Universities &amp; Colleges Coalition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://campuscoalition.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>funding</title>
+      <link>https://campuscoalition.org/tags/funding/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://campuscoalition.org/tags/funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graduate Students</title>
+      <link>https://campuscoalition.org/tags/graduate-students/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://campuscoalition.org/tags/graduate-students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>student unions</title>
+      <link>https://campuscoalition.org/tags/student-unions/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://campuscoalition.org/tags/student-unions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
